@@ -7,7 +7,7 @@ Analyzing the sales of ADWorks products.
 
 **Key features:** Snowflake data model, TreeMap visual, Percentage Difference Measures
 
-**Databel Churn Analysis**
+**-Databel Churn Analysis**
 Analyzing Databel customer churn.
 
 **Key features:** Line + column charts, Map visual, calculated columns, Organization of visuals
